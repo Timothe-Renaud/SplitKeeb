@@ -24,6 +24,8 @@ Liste des ref necessaire pours monter un ergodone:
  - [ ] case [ or 3d printed yourself ]
  
  
- 
+ TUTO:
+ - http://www.geekymartian.com/articles/building-an-ergodox/
+ - 
  TODO:
   - mettre les vraix lien vers les createur & auteur des designe etc
